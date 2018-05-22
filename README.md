@@ -1,6 +1,6 @@
 # Latent Vector Grammars (LVeGs)
 
-Code for [Gaussian Mixture Latent Vector Grammars](#).
+Code for [Gaussian Mixture Latent Vector Grammars](https://arxiv.org/abs/1805.04688).
 
 ## Parsing Models
 
